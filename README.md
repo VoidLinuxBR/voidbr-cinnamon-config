@@ -1,3 +1,3 @@
-# voidbr-pkgfile-template
+# voidbr-cinnamon-config
 
-Template for VoidBR pkgmake/pkgfile packages
+Skel config for Void Linux CINNAMON Meta Package
