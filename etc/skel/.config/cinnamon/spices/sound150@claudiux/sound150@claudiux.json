@@ -510,7 +510,7 @@
     "volume": {
         "type": "generic",
         "default": "50%",
-        "value": "0%"
+        "value": "50%"
     },
     "mic-level": {
         "type": "generic",
